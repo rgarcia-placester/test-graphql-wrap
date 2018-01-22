@@ -1,0 +1,16 @@
+{
+  "name": "qraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.12.3",
+    "graphql-tools": "^2.18.0",
+    "node-fetch": "^1.7.3"
+  }
+}
